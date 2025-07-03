@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KALIMANTAN UTARA</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header" align="center">
+            <img src="LOGO KALIMANTAN UTARA.jpeg" alt="logo" height="150" width="180">
+            <h2>KALIMANTAN UTARA</h2>
+        </div>
+
+        <div class="daftar-content">
+            <div id="content">
+                <h3>Pantai Amal Tarakan</h3>
+                <img src="Pantai amal tarakan.jpg" alt="Pantai Losari" height="200" width="350">
+                <p align="justify">
+                    Pantai Amal di Tarakan, Kalimantan Utara, merupakan destinasi wisata andalan yang terkenal 
+                    dengan pasir coklatnya yang berkilau dan ombak yang tenang, cocok untuk berenang dan bersantai. 
+                    Terbagi menjadi dua bagian, yaitu Pantai Amal Lama (juga dikenal sebagai Pantai Ratu Intan) yang 
+                    kaya akan nuansa budaya Suku Tidung dan nilai sejarah, serta Pantai Amal Baru yang lebih modern 
+                    dengan berbagai fasilitas rekreasi seperti banana boat, sepeda listrik, dan food court. Selain 
+                    panorama alam yang indah, pantai ini juga menawarkan kuliner khas seperti kapah (kerang lokal), 
+                    udang goreng, dan kelapa muda. Dengan akses yang mudah dari pusat kota Tarakan dan harga tiket yang 
+                    terjangkau, Pantai Amal menjadi tempat favorit wisatawan lokal maupun luar daerah untuk menikmati
+                    keindahan alam sekaligus mengenal sejarah dan budaya setempat.
+                </p>
+                <a href="Pantai Amal Tarakan.html">Baca Selengkapnya</a>
+            </div>
+
+            <div id="content">
+                <h3>Taman Nasional Kayan Mentarang</h3>
+                <img src="Taman Nasional Kayan Mentarang.jpeg" alt="Malino" height="200" width="350">
+                <p align="justify">
+                    Taman Nasional Kayan Mentarang di Kalimantan Utara adalah destinasi wisata alam yang menawarkan 
+                    keindahan hutan hujan tropis, pegunungan, serta keanekaragaman flora dan fauna langka. Selain
+                    panorama alam yang memukau, kawasan ini juga kaya akan budaya suku Dayak yang masih mempertahankan 
+                    tradisi leluhur. 
+                </p>
+                <a href="Taman Nasional Kayan Mentarang.html">Baca selengkapnya</a>
+            </div>
+
+            <div id="content">
+                <h3>Pantai Tanjung Aru</h3>
+                <img src="Pantai Tanjung Aru.jpeg" alt="Tanah Toraja" height="200" width="350">
+                <p align="justify">
+                    Pantai Tanjung Aru adalah pantai terkenal di Kota Kinabalu, Sabah, Malaysia, yang dikenal dengan 
+                    pasir putihnya dan deretan pohon aru di sepanjang pesisir. Pantai ini menjadi favorit wisatawan 
+                    untuk menikmati matahari terbenam yang sangat indah, sering disebut sebagai salah satu sunset 
+                    terbaik di dunia.
+                </p>
+                <a href="Pantai Tanjung Aru.html">Baca selengkapnya</a>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <h3>Beberapa pilihan wisata lainnya di Kalimantan Utara</h3>
+            <ul>
+                <li><a href="Festival Erau Kaltara.html">Festival Erau Kaltara</a></li>
+                <li><a href="Air Panas Semolon.html">Air Panas Semolon</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p align="center">Copyright 2025 - Wisata Kalimantan Utara</p>
+        </div>
+    </div>
+
+</body>
+</html>
 # Tugas-hery
